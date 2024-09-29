@@ -1,0 +1,8 @@
+GOOGLE_ID="57458222701-l24q3c6ln72j4mgdcnmlma86pdap8ocq.apps.googleusercontent.com"
+GOOGLE_SECRET="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"
+MONGODB_URI="mongodb://localhost:27017/ecom"
+
+#AWS hosted URI
+#MONGODB_URI="mongodb+srv://lakmalai72:hQW2XkZrZAjxdYBt@cluster.hdzkp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
+
+#create (.env) file and put this things
