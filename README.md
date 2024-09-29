@@ -4,7 +4,7 @@
 - Used frameworks : NEXT Js, NODE 
 - Others          : Tailwind css, Material UI, AWS, Google Auth
 
-![Isuru Lakmal](Readme%20assets/1.png)
+![Isuru Lakmal](assetsReadMe/1.png)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
